@@ -1,4 +1,4 @@
-Monitoring Service
+# Monitoring Service
 
 A telemetry suite designed for real-time system resource tracking. It leverages Docker Compose to orchestrate a FastAPI-based collector (**PyFlux**) and an **InfluxDB 2.x** time-series database.
 
